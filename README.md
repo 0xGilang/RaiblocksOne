@@ -66,6 +66,8 @@ Use Command below to get your SEED and Private Key
 ```
 $ /usr/bin/./nano_node --wallet_decrypt_unsafe --wallet=%YOUR_WALLLET_ID%
 ```
+<img src="https://pbs.twimg.com/profile_images/1694749398457081856/QrgBrvWt_400x400.jpg">
+
 # **Contact Me🔥☕**
 <p align="left">
 <a href="https://www.github.com/0xGilang"><img height="40" width="40" align="center" src="https://avatars.githubusercontent.com/u/94946818?v=4"></a>
